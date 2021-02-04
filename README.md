@@ -1,4 +1,4 @@
 # tsg_challenge
 Log in screen / register screen
 
-[diagram.png]
+![diagram](diagram.png "Diagram")
